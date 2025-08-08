@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+openai
+python-multipart
+pydub
+pyannote.audio
+torchaudio
+pdfplumber
+python-docx
+newspaper3k
+
